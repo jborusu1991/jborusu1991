@@ -1,6 +1,6 @@
 Hi 👋, I'm Jay Borusu 👋
 
-Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
+Principal DevOps, Platform & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
 👨‍💻 About Me
 I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle.
