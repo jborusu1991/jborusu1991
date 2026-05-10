@@ -24,6 +24,7 @@ Technologies and Tools
 Cloud: AWS<br>
 Containerization: Docker, Kubernetes, ECS, EKS<br>
 CI/CD: GitLab CI/CD, GitHub Actions<br>
+GitOps: ArgosCD,Argo Rollout<br>
 Configuration Management: Ansible<br>
 IaC: Terraform, CDK(Python)<br>
 Monitoring: Prometheus, Grafana, EFK Stack, OTel<br>
