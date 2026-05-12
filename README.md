@@ -3,9 +3,11 @@ Hi 👋, I'm Jay Borusu 👋
 Principal DevOps, Platform & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
 
 👨‍💻 About Me
+
 I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms. My focus is on scalability, reliability, security, and automation across the delivery lifecycle.
 
  Certifications and Training:
+ 
 ▸	AWS Certified Solutions Architect – Associate<br>
 ▸	AWS Certified Security – Specialty<br>
 ▸	Certified Kubernetes Security Specialist (CKS)<br>
@@ -21,6 +23,7 @@ Design centralized observability using Prometheus, Grafana, and EFK<br>
 Integrate DevSecOps practices into delivery workflows<br>
 
 Technologies and Tools
+
 Cloud: AWS<br>
 Containerization: Docker, Kubernetes, ECS, EKS<br>
 CI/CD: GitLab CI/CD, GitHub Actions<br>
