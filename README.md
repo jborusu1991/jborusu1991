@@ -15,6 +15,7 @@ I am a DevOps & Cloud Engineer with strong experience designing, automating, and
 ▸	Certified Secure Software Lifecycle Professional (CSSLP)<br>
 
 What I Do
+
 Design and operate Kubernetes platforms (EKS, RKE2) for multi-environment workloads<br>
 Build reusable Terraform modules for AWS<br>
 Implement GitOps-based deployments using ArgoCD and Helm<br>
